@@ -153,6 +153,10 @@ line-height: 35px;
 padding-top: 60px;
 padding-bottom: 60px;
 }
+
+.paragraph-flex {
+  display: flex;
+}
 .p1>h2{
 font-weight: 400;
 }
