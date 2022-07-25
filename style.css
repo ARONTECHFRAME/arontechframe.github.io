@@ -145,7 +145,7 @@ body{
   filter: grayscale(50%);
 }
 .p1{
-width: 50%;
+width: 100%;
 font-family: 'Raleway', sans-serif;
 float: left;
 background-color: #f2e1e1;
